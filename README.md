@@ -16,3 +16,6 @@ Olá! Bem-vindo ao meu livro de receitas :wave:
 
 [Brioche](https://github.com/psuchoj/livro-receitas/blob/main/receitas/salgadas/brioche.md)
 [Legumes ao Forno](https://github.com/psuchoj/livro-receitas/blob/main/receitas/salgadas/legumes_ao_forno.md)
+
+[Strogonoff de Frango](https://github.com/psuchoj/livro-receitas/blob/main/receitas/salgadas/strogonoff.md)
+
