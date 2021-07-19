@@ -11,6 +11,7 @@ Olá! Bem-vindo ao meu livro de receitas :wave:
 * [Bolo de Vinho com Mel](https://github.com/psuchoj/livro-receitas/blob/main/receitas/doces/bolo_vinho_mel.md)
 * [Pavê de Nozes](https://github.com/psuchoj/livro-receitas/blob/main/receitas/doces/pave_nozes.md)
 * [Pudim Duo de Creme com Nutella](https://github.com/psuchoj/livro-receitas/blob/main/receitas/doces/pudim_creme_nutella.md)
+* [Broa Delícia](https://github.com/psuchoj/livro-receitas/blob/main/receitas/doces/broa_delicia.md)
 
 ### Receitas Salgadas
 
