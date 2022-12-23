@@ -12,6 +12,7 @@ Olá! Bem-vindo ao meu livro de receitas :wave:
 * [Pavê de Nozes](https://github.com/psuchoj/livro-receitas/blob/main/receitas/doces/pave_nozes.md)
 * [Pudim Duo de Creme com Nutella](https://github.com/psuchoj/livro-receitas/blob/main/receitas/doces/pudim_creme_nutella.md)
 * [Broa Delícia](https://github.com/psuchoj/livro-receitas/blob/main/receitas/doces/broa_delicia.md)
+* [Bolo de Frutas ao Rum com Glacê](https://github.com/paulosuchoj/livro-receitas/blob/main/receitas/doces/bolo_frutas_rum_glace.md)
 
 ### Receitas Salgadas
 
